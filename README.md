@@ -9,7 +9,7 @@ Focused server-side examples for building FLUX.2 image generation and editing wo
 
 FLUX.2 is useful for high-quality image generation, precise creative control, image editing, and production visual drafts that need pro or flex variants.
 
-[Model Page](https://poyo.ai/models/flux-2) | [Docs](https://docs.poyo.ai/api-manual/image-series/flux-2) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
+[Try on PoYo](https://poyo.ai/models/flux-2) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Docs](https://docs.poyo.ai/api-manual/image-series/flux-2) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
 
 ## What This Repo Covers
 
